@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GoldMedalApplication<goldmedal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.codecademy.goldmedal.GoldMedalApplication",
+            "projectName": "goldmedal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
